@@ -11,3 +11,8 @@ int main()
 	system("pause");
 	return 0;
 }
+
+int sum（int x,int y)
+{
+retrun x+y;
+}
